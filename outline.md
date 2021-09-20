@@ -1,3 +1,8 @@
+<table>
+ <tr align=left><td><img align=left src="https://i.creativecommons.org/l/by/4.0/88x31.png">
+ <td>Text provided under a Creative Commons Attribution license, CC-BY. All code is made available under the FSF-approved MIT license. (c) Tom Marshall, Kyle Mandli, and Javad Shabani</td>
+</table>
+
 # Developing Quantum Intuition for Developing Quantum Algorithms
 
 ## Authorship
