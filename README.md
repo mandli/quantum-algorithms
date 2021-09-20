@@ -1,2 +1,3 @@
 # quantum-algorithms
-Developing Quantum Intuition for Quantum Algorithm Development
+
+Developing Quantum Intuition for Developing Quantum Algorithms
