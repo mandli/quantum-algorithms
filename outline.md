@@ -458,6 +458,8 @@ Classical ML
 [Quantum-Enhanced Data Classification with a Variational Entangled Sensor Network](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.11.021047)  
 [Reinforcement Learning for Digital Quantum Simulation](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.127.110502)  
 [(arxiv)](https://arxiv.org/pdf/2006.16269.pdf)  
+[Training Variational Quantum Algorithms Is NP-Hard](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.127.120502)  
+[(arxiv)](https://arxiv.org/pdf/2101.07267.pdf)  
 
 #### Non-ML Techniques
 
