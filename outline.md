@@ -402,6 +402,9 @@ The D-Wave approach, which they call Analog Quantum Annealing (AQA), in general,
 [A scalable control system for a superconducting adiabatic quantum optimization processor](https://arxiv.org/pdf/0907.3757.pdf)  
 [A scalable readout system for a superconducting adiabatic quantum optimization system](https://arxiv.org/pdf/0905.0891.pdf)  
 
+#### Adiabatic/AQA Software
+[A New Path to Create Solutions for Quantum Annealing Problems](https://www.scirp.org/pdf/jqis_2021091509415933.pdf)  
+
 #### Adiabatic/AQA/Ising Hamiltonian and Decoherence
 
 >tl;dr: Coherence isn’t relevant for adiabatic/AQA computations
