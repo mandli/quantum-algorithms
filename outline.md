@@ -250,6 +250,7 @@ We revisit the subject of known quantum algorithms, taking more of a middle road
 [Quantum rounding](https://arxiv.org/pdf/2108.05949.pdf)  
 [Dynamic Portfolio Optimization with Real Datasets Using Quantum Processors and Quantum-Inspired Tensor Networks](https://arxiv.org/pdf/2007.00017.pdf)  
 [Estimating the gradient and higher-order derivatives on quantum hardware](https://arxiv.org/pdf/2008.06517.pdf)  
+[Low depth amplitude estimation on a trapped ion quantum computer](https://arxiv.org/pdf/2109.09685.pdf)
 
 
 ##### Linear Systems and HHL Algorithm
