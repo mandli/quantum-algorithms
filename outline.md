@@ -294,6 +294,12 @@ Quantum and classical algorithms have been covered as a main part of this Course
 [Reachability Deficits in Quantum Approximate Optimization](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.124.090504)  
 [A Practical Introduction to Tensor Networks: Matrix Product States and Projected Entangled Pair States](https://arxiv.org/pdf/1306.2164.pdf)
 
+#### Quantum Fourier Techniques for Solving PDEs
+
+Efficient numerical PDE solvers have been an area of active research for decades.  Quantum algorithms may offer significant advantages.
+
+[Quantum Fourier analysis for multivariate functions and applications to a class of Schrödinger-type partial differential equations](https://arxiv.org/pdf/2104.02668.pdf)
+
 #### Leveraging Quantum-Random-Cirtuit Techniques
 
 The [Google “Quantum Supremacy”](https://www.nature.com/articles/s41586%20019%201666%205) paper (see also [Appendix X](#Appendix-x)) basically used quantum random circuits to generate random vectors in a Hilbert space much more efficiently than classical algorithms can.  In <i>some</i> special cases, these random vectors can be used by quantum algorithms to solve problems more efficiently than classical algorithms.  A proof-of concept is given by Richter and Pal:
