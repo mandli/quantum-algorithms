@@ -273,8 +273,11 @@ This section collects materials that will be made available to the students but 
 
 Quantum and classical algorithms have been covered as a main part of this Course.  This Appendix lists additional references, covering perhaps a broader range of topics.
 
+
+#### General Overview
+
 [Low-Depth Mechanisms for Quantum Optimization](https://journals.aps.org/prxquantum/pdf/10.1103/PRXQuantum.2.030312)  
-[Simulating hydrodynamics on noisy intermediate-scale quantum devices with random circuits](https://arxiv.org/pdf/2012.02795.pdf)  
+
 
 [Filtering variational quantum algorithms for combinatorial optimization](https://arxiv.org/pdf/2106.10055.pdf)  
 [Expectation Values from the Single-Layer Quantum Approximate Optimization Algorithm on Ising Problems](https://arxiv.org/pdf/2012.03421.pdf)  
@@ -289,9 +292,16 @@ Quantum and classical algorithms have been covered as a main part of this Course
 [Robustness to spontaneous emission of a variational quantum algorithm](https://arxiv.org/pdf/1910.10442.pdf)  
 
 [Reachability Deficits in Quantum Approximate Optimization](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.124.090504)  
-[A Practical Introduction to Tensor Networks: Matrix Product States and Projected Entangled Pair States](https://arxiv.org/pdf/1306.2164.pdf)  
+[A Practical Introduction to Tensor Networks: Matrix Product States and Projected Entangled Pair States](https://arxiv.org/pdf/1306.2164.pdf)
 
-#### Exploring Quantum Typicality
+#### Leveraging Quantum-Random-Cirtuit Techniques
+
+The [Google “Quantum Supremacy”](https://www.nature.com/articles/s41586%20019%201666%205) paper (see also [Appendix X](#Appendix-x)) basically used quantum random circuits to generate random vectors in a Hilbert space much more efficiently than classical algorithms can.  In <i>some</i> special cases, these random vectors can be used by quantum algorithms to solve problems more efficiently than classical algorithms.  A proof-of concept is given by Richter and Pal:
+
+[Simulating hydrodynamics on noisy intermediate-scale quantum devices with random circuits](https://arxiv.org/pdf/2012.02795.pdf)  
+
+
+##### Exploring Quantum Typicality
 
 Since the [Richter and Pal paper above](https://arxiv.org/pdf/2012.02795.pdf) presents an algorithm that exploits random quantum circuits works efficiently because the physical system being analyzed exhibits “quantum typicality”, there may be paths to algorithms in other domains based on a generalization of quantum typicality.  In general, such studies of (exact or approximate) similarities in the mathematical structure of seemingly disparate areas is a cornerstone of our approach to algorithms development.
 
@@ -549,7 +559,7 @@ This Appendix presents some representative references on applications areas.  Si
 
 [Quantum Computing In Finance – Where We Stand And Where We Could Go](https://www.science20.com/joseph_byrum/quantum_computing_in_finance_where_we_stand_and_where_we_could_go-254398)  
 
-### Appendix X: Quantum Complexity, Quantum Advantage, and Resource Estimation
+### <a id="Appendix-x"></a> Appendix X: Quantum Complexity, Quantum Advantage, and Resource Estimation
 
 This topic is broad and probably not well suited for a single Appendix.  Also, while complexity theory is important in the long term and is an intellectually stimulating topic, it isn’t clear that the subject has primary relevance in developing “first-to-market” algorithms and the intuition needed for shorter-term progress.  Resource estimation, on the other hand, is perhaps more relevant in the short term, and is at least partially covered in the main syllabus.  
 
