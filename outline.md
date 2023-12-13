@@ -307,6 +307,8 @@ Since the [Richter and Pal paper above](https://arxiv.org/pdf/2012.02795.pdf) pr
 
 #### Quantum-Inspired Classical Algorithms
 
+[Quantum-inspired algorithms in practice](https://arxiv.org/pdf/1905.10415.pdf)
+
 [Quantum Solution to Classical Drag Puzzle](https://physics.aps.org/articles/pdf/10.1103/Physics.14.127)  
 
 
