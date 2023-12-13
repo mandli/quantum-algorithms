@@ -565,7 +565,7 @@ This Appendix presents some representative references on applications areas.  Si
 
 [Quantum Computing In Finance – Where We Stand And Where We Could Go](https://www.science20.com/joseph_byrum/quantum_computing_in_finance_where_we_stand_and_where_we_could_go-254398)  
 
-### <a id="Appendix-x"></a> Appendix X: Quantum Complexity, Quantum Advantage, and Resource Estimation
+### <a name="Appendix-x"></a> Appendix X: Quantum Complexity, Quantum Advantage, and Resource Estimation
 
 This topic is broad and probably not well suited for a single Appendix.  Also, while complexity theory is important in the long term and is an intellectually stimulating topic, it isn’t clear that the subject has primary relevance in developing “first-to-market” algorithms and the intuition needed for shorter-term progress.  Resource estimation, on the other hand, is perhaps more relevant in the short term, and is at least partially covered in the main syllabus.  
 
