@@ -1,13 +1,13 @@
 <table>
  <tr align=left><td><img align=left src="https://i.creativecommons.org/l/by/4.0/88x31.png">
- <td>Text provided under a Creative Commons Attribution license, CC-BY. All code is made available under the FSF-approved MIT license. (c) Tom Marshall, Kyle Mandli, and Javad Shabani</td>
+ <td>Text provided under a Creative Commons Attribution license, CC-BY. All code is made available under the FSF-approved MIT license. (c) Tom Marshall and Kyle Mandli</td>
 </table>
 
 # Developing Quantum Intuition for Developing Quantum Algorithms
 
 ## Authorship
 
-The first draft of this outline was conceived and written by Tom Marshall, with inspiration drawn from the published works and presentations of Naomi Nickerson and Mihir Pant, and also my own interests in entanglement, decoherence, and the quantum-to-classical transition.  Kyle Mandli and Javad Shabani have made substantive contributions to this draft, and I’ve drawn much inspiration and motivation from many colleagues too numerous to mention.  Going forward, this work will be an open-source communal effort, and individual authorship credit will be taken as each author deems appropriate.
+The first draft of this outline was conceived and written by Tom Marshall, with inspiration drawn from the published works and presentations of Naomi Nickerson and Mihir Pant, and also my own interests in entanglement, decoherence, and the quantum-to-classical transition.  Kyle Mandli has made substantive contributions to this draft, and I’ve drawn much inspiration and motivation from many colleagues too numerous to mention.  Going forward, this work will be an open-source communal effort, and individual authorship credit will be taken as each author deems appropriate.
 
 ## Introduction
 
