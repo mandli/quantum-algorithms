@@ -30,9 +30,7 @@ The ultimate value of QC will be in the real-world problems that can be solved, 
 Our intent is to develop a “quantum intuition” at a level deeper than is typically presented to students of QC and quantum algorithms, in the expectation that such facility will help the student/researcher to see connections among the available “quantum resources” on the one hand, and the specific mathematical details of the problem(s) to be solved on the other.
 
 #### Pedagogical and Psychological Support for the Importance of Intuition
-A recent Physics Today article (August 2021), [Intuitive or rational? Students and experts need to be both.](https://physicstoday.scitation.org/doi/pdf/10.1063/PT.3.4813), documents the efficacy of so called Dual-Process Theories – as expounded on by Nobel Laureate Daniel Kahneman in Thinking Fast and Slow – where “fast” intuitive cognition and “slow” rational analysis play equally important roles in developing expertise.
-
-[Intuitive or rational? Students and experts need to be both.](https://physicstoday.scitation.org/doi/pdf/10.1063/PT.3.4813)  
+A recent Physics Today article (August 2021), [Intuitive or rational? Students and experts need to be both](https://physicstoday.scitation.org/doi/pdf/10.1063/PT.3.4813), documents the efficacy of so called Dual-Process Theories – as expounded on by Nobel Laureate Daniel Kahneman in Thinking Fast and Slow – where “fast” intuitive cognition and “slow” rational analysis play equally important roles in developing expertise.
 
 
 ### Intended Audience and Scope
