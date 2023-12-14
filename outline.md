@@ -214,6 +214,10 @@ Unit 5 extends the discussion of hardware technologies introduced in Unit 0.4, f
 [Exponential suppression of bit or phase errors with cyclic error correction (Google, Nature 2021)](https://www.nature.com/articles/s41586-021-03588-y.pdf)  
 [Comparing the Overhead Of Topological and Concatenated Quantum Error Correction](https://arxiv.org/pdf/1312.2316.pdf)  
 
+###### Recent Results in Error Correction Using Ultracold Atoms
+
+[Logical quantum processor based on reconfigurable atom arrays](https://www.nature.com/articles/s41586-023-06927-3_reference.pdf) (Nature Accelerated Preview, Dec. 2023)
+[Logical quantum processor based on reconfigurable atom arrays](https://www.nature.com/articles/s41586-023-06927-3) (Abstract; should be a more stable reference)
 
 #### Unit 6: Quantum Memory – Uses in Algorithms and Hardware Challenges
 
