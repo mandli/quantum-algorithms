@@ -216,8 +216,8 @@ Unit 5 extends the discussion of hardware technologies introduced in Unit 0.4, f
 
 ###### Recent Results in Error Correction Using Ultracold Atoms
 
-[Logical quantum processor based on reconfigurable atom arrays](https://www.nature.com/articles/s41586-023-06927-3_reference.pdf) (Nature Accelerated Preview, Dec. 2023)
-[Logical quantum processor based on reconfigurable atom arrays](https://www.nature.com/articles/s41586-023-06927-3) (Abstract; should be a more stable reference)
+[Logical quantum processor based on reconfigurable atom arrays (Nature Accelerated Preview, Dec. 2023)](https://www.nature.com/articles/s41586-023-06927-3_reference.pdf) 
+[Logical quantum processor based on reconfigurable atom arrays (Abstract; should be a more stable reference)](https://www.nature.com/articles/s41586-023-06927-3) 
 
 #### Unit 6: Quantum Memory – Uses in Algorithms and Hardware Challenges
 
