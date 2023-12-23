@@ -70,7 +70,7 @@ It is in Unit 2 where the notion of error correction is explored, but via the ve
 
 Unit 3 covers analog, or adiabatic quantum computing (AQC).  Although AQC is not truly a universal, it does have significant overlap with other modes of QC, and, in particular, may be an interesting candidate for “triple hybrid QC”, with SGQC and AQC each being stitched together as individual quantum processing units (QPUs) by conventional digital software.
 
-Unit 4 presents a brief survey of state-of-the-art real-world applications – more to show how messy and distant such solutions currently appear than to instruct in best practices (although such techniques are indeed our best practices at the moment).
+Unit 4 presents a few state-of-the-art real-world applications – some of which show how messy and distant such solutions currently appear.  Such techniques are indeed our best practices at the moment, but here our intent is to show the need for truly innovative approaches to algorithms design, beyond the current state or the art.  Although most scientific research tends to build on prior art incrementally, this Unit invites students to explore novel techniques, which of course don't yet exist.
 
 Unit 5 revisits Unit 0.4 in greater depth, covering many different hardware approaches.  Attention is paid to sources of error, and to approaches to error correction, building on the foundation laid in Unit 2.
 
@@ -237,6 +237,12 @@ Having set the stage of finding (perhaps approximate) isomorphisms between probl
 #### Unit 8: A Brief Survey of Quantum Algorithms and Optimizations
 
 We revisit the subject of known quantum algorithms, taking more of a middle road between the simple examples presented in Unit 0.7 and the scare tactics of Unit 4.  We focus on optimizations and improvements in algorithms, with an eye towards trying to generalize specific techniques to different classes of problems and algorithms.
+
+##### A Survey Article
+
+[Quantum algorithms: A survey of applications and end-to-end complexities](https://arxiv.org/pdf/2310.03011.pdf)
+
+##### Some Basic to Advanced Resources
 
 [Introduction to Coding Quantum Algorithms: A Tutorial Series Using Qiskit](https://arxiv.org/pdf/1903.04359.pdf)  
 [Theory of variational hybrid quantum-classical algorithms (2016)](https://iopscience.iop.org/article/10.1088/1367-2630/18/2/023023/pdf)  
